@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "约束七论（偏置／编码／决策／预算流／知识图谱／配平／应对）"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+version: 1.0.0
+date-released: 2026-10-20
+license: CC-BY-NC-4.0
+repository-code: "https://gitee.com/mofahuizhang/yueshu"
+keywords:
+  - 约束七论
+  - 注意力预算
+  - 次生原语
+  - 偏置约束
+  - 内容编码
+  - 决策
+  - 预算流
+  - 知识图谱
+  - 多模态配平
+  - 应对
+  - 四域分卷

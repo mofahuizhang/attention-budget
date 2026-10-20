@@ -8,7 +8,7 @@ authors:
 version: 1.0.0
 date-released: 2026-10-20
 license: CC-BY-NC-4.0
-repository-code: "https://gitee.com/mofahuizhang/yueshu"
+repository-code: "https://gitee.com/mofahuizhang/attention-budget"
 keywords:
   - 约束七论
   - 注意力预算
